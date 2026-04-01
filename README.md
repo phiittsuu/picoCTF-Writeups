@@ -6,6 +6,7 @@ _An obsidian vault of problem writeups from [picoCTF](https://play.picoctf.org/p
 - Writeups: md files for the writeup for each question. Tagged the same as on the website, and some problems contain additional (self-referencing) tags. Note that attachments do not show correctly when displayed on GitHub but should display correctly if downloaded as a vault.
 - Solution Files: A folder containing any and all files used to solve the problem in a downloadable format, including any scripts or documents created as a result.
 -> organised by category
+-[[Challenge List]]: a list of all problems under each category for easier (possibly?) navigation
 ## Filterable tags
 | By Category                                                                                                                    | By Difficulty              | By Event                     | Extra Tags |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------------------- | ---------- |
