@@ -13,5 +13,6 @@
   "showIndentGuide": true,
   "userIgnoreFilters": [
     "/[aA][tT][tT][aA][cC][hH][mM][eE][nN][tT][sS]/"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
