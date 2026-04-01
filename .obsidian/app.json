@@ -1,0 +1,17 @@
+{
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "deleteUnlinkedAttachments": "always",
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "userIgnoreFilters": [
+    "/[aA][tT][tT][aA][cC][hH][mM][eE][nN][tT][sS]/"
+  ]
+}

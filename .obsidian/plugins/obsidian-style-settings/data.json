@@ -1,0 +1,11 @@
+{
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@color-accent-rgb-l": "165, 119, 218",
+  "sanctum@@color-accent-rgb-d": "165, 119, 218",
+  "sanctum@@heading-outline": "heading-counter-1",
+  "typomagical-title@@alignment-title": "align-title-left",
+  "typomagical-images@@ss-zoom-off": true,
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-colour@@background-color-enable": true,
+  "typomagical-colour@@theme-variant": "coherence"
+}
