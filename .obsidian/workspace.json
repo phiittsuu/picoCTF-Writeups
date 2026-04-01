@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template.md"
+              "title": "README"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "38a9de0c2c55e0f4",
   "lastOpenFiles": [
+    "template.md",
     "README.md",
-    "template.md.md",
     "Solution Files/Web Exploitation",
     "Solution Files/Reverse Engineering",
     "Solution Files/General Skills",
