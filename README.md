@@ -7,6 +7,6 @@ _An obsidian vault of problem writeups from [picoCTF](https://play.picoctf.org/p
 - Solution Files: A folder containing any and all files used to solve the problem in a downloadable format, including any scripts or documents created as a result.
 -> organised by category
 ## Filterable tags
-| By Category                                                                                                                    | By Difficulty              | By Event     | Extra Tags |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ------------ | ---------- |
-| #binaryExploitation<br>#blockchain<br>#cryptography<br>#forensics<br>#generalSkills<br>#reverseEngineering<br>#webExploitation | #easy <br>#medium<br>#hard | #picoCTF2026 | #linux     |
+| By Category                                                                                                                    | By Difficulty              | By Event                     | Extra Tags |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------------------- | ---------- |
+| #binaryExploitation<br>#blockchain<br>#cryptography<br>#forensics<br>#generalSkills<br>#reverseEngineering<br>#webExploitation | #easy <br>#medium<br>#hard | #picoCTF2026<br>#picoCTF2025 | #linux     |
