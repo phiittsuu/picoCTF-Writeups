@@ -8,8 +8,8 @@ _An obsidian vault of problem writeups from [picoCTF](https://play.picoctf.org/p
 -> organised by category
 - [[Challenge List]]: a list of all problems under each category for easier (possibly?) navigation
 ## Filterable tags
-| By Category                                                                                                                    | By Difficulty              | By Event                     | Extra Tags     |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------------------- | -------------- |
-| #binaryExploitation<br>#blockchain<br>#cryptography<br>#forensics<br>#generalSkills<br>#reverseEngineering<br>#webExploitation | #easy <br>#medium<br>#hard | #picoCTF2026<br>#picoCTF2025 | #linux<br>#git |
+| By Category                                                                                                                    | By Difficulty              | By Event                                     | Extra Tags                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | -------------------------------------------- | ------------------------------------------ |
+| #binaryExploitation<br>#blockchain<br>#cryptography<br>#forensics<br>#generalSkills<br>#reverseEngineering<br>#webExploitation | #easy <br>#medium<br>#hard | #picoCTF2026<br>#picoCTF2025<br>#picoCTF2024 | #linux<br>#git<br>#fileFormat<br>#polyglot |
 ## plans for future updates
 - converting md files into viewable blogs/website on git
