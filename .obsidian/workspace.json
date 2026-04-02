@@ -253,9 +253,10 @@
   "active": "dc5c81a021fed803",
   "lastOpenFiles": [
     "Writeups/Forensics/Secret of the Polyglot.md",
-    "README.md",
+    "Writeups/Forensics",
     "Attachments/Screenshot 2026-04-02 at 7.21.24 pm.png",
     "Attachments/Screenshot 2026-04-02 at 7.19.50 pm.png",
+    "README.md",
     "template.md",
     "Writeups/General Skills/MY GIT.md",
     "Attachments/Screenshot 2026-04-02 at 6.59.47 pm.png",
@@ -278,7 +279,6 @@
     "Writeups/General Skills",
     "Attachments",
     "Solution Files/Web Exploitation",
-    "Solution Files/Reverse Engineering",
-    "Solution Files/General Skills"
+    "Solution Files/Reverse Engineering"
   ]
 }
