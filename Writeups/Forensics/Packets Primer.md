@@ -10,11 +10,11 @@ _hints:_
 ## Solution
 Open the pcap file using a packet analysing software such as [Wireshark](https://www.wireshark.org/). We are met with something like this (note: the colouring and amount of information shown may differ - you can change these in settings)
 
-![[Screenshot 2026-04-06 at 10.37.34 pm.png]]
+![[Screenshot 2026-04-06 at 10.46.01 pm.png]]
 
 From here, we can see that information was sent through TCP stream between two IP addresses. To follow the stream, we can click on a packet (the first one), and right click -> follow -> TCP. From here, we can see the flag is in the first stream.
 
-![[Screenshot 2026-04-06 at 10.39.17 pm.png]]
+![[Screenshot 2026-04-06 at 10.45.39 pm.png]]
 
 We can now just copy the flag out.
 ## Flag
