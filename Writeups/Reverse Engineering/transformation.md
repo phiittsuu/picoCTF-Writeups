@@ -11,7 +11,7 @@ From the description, we see a snippet of code written in Python. This is likely
 
 ```灩捯䍔䙻ㄶ形楴獟楮獴㌴摟潦弸形㝦㘲捡㕽```
 
-In Python, we can do the transformation directly from the string. We can write a simple (script) to decode by reversing the bit joining. We do this by shifting the first set by 8, and then AND `0xFF` to get the least significant byte.
+In Python, we can do the transformation directly from the string. We can write a simple [[main.py|script]] to decode by reversing the bit joining. We do this by shifting the first set by 8, and then AND `0xFF` to get the least significant byte.
 
 ```python
 def main():
