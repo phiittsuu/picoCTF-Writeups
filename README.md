@@ -1,5 +1,5 @@
 # picoCTF-Writeups
-_An obsidian vault of problem writeups from [picoCTF](https://play.picoctf.org/practice) competitions (and gym). Can be downloaded as an obsidian vault as the config file is included._
+_An obsidian vault of problem writeups from [picoCTF](https://play.picoctf.org/practice) competitions (and gym). Can be cloned as an obsidian vault as the config file is included._
 ## How to navigate
 - Attachments: All screenshots included within writeups. Does not need to be viewed and is unorganised. (Note: this is hidden automatically if the repo was opened as a vault)
 -> organised by category
